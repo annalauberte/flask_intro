@@ -1,4 +1,6 @@
 .chat{
-border: 2px;
-border-color: black;
+    width: 800px;
+    display: block;
+    border: 2px;
+    border-color: black;
 }
